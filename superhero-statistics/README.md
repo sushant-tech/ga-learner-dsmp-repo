@@ -1,0 +1,1 @@
+its about visualizing and fetching data with help of statistics methods
